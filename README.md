@@ -1,3 +1,4 @@
+
 # Spotistats
 
 A full-stack TypeScript Spotify analytics dashboard.
@@ -85,3 +86,6 @@ SPOTIFY_REDIRECT_URI=https://your-app.example.com/api/auth/callback
 ## Exact listening time
 
 Spotify's live Web API does not expose exact lifetime minutes listened. For those stats, request your Spotify account data and import JSON files named like `StreamingHistory_music_*.json` or Extended Streaming History files. Spotistats keeps imported listening records in this browser's IndexedDB.
+
+# Spotistats
+>>>>>>> 29cd4e68681c9d9189a7cf42dff83563aebc67c0
